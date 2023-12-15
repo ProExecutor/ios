@@ -1,0 +1,16 @@
+<svg width="100%" height="100%" viewBox="0 0 751 1586" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+  <g transform="matrix(1,0,0,1,-0.945912,461.48)">
+    <g transform="matrix(1,0,0,1,0,2)">
+      <path d="M750,-62.48L750,37.52" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:20px;" />
+    </g>
+    <g transform="matrix(1,0,0,1,0,2)">
+      <path d="M750,115.02L750,317.52" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:20px;" />
+    </g>
+    <g transform="matrix(1,0,0,1,0,2)">
+      <path d="M741,-403.98C741,-432.956 717.476,-456.48 688.5,-456.48L59.5,-456.48C30.524,-456.48 7,-432.956 7,-403.98L7,1063.02C7,1092 30.524,1115.52 59.5,1115.52L688.5,1115.52C717.476,1115.52 741,1092 741,1063.02L741,-403.98Z" style="fill:rgb(51,51,51);stroke:black;stroke-width:14px;stroke-linecap:square;" />
+      <!-- SCREEN -->
+      <path style="fill:#000" d="M706.5,-397.48C706.5,-411.278 695.298,-422.48 681.5,-422.48L66.5,-422.48C52.702,-422.48 41.5,-411.278 41.5,-397.48L41.5,1037.52C41.5,1051.32 52.702,1062.52 66.5,1062.52L681.5,1062.52C695.298,1062.52 706.5,1051.32 706.5,1037.52L706.5,-397.48Z" />
+      <circle cx="374" cy="-382.48" r="20" style="fill:rgb(34,34,34);" />
+    </g>
+  </g>
+</svg>

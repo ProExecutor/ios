@@ -1,0 +1,9 @@
+<svg width="100%" height="100%" viewBox="0 0 688 1471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+  <g id="layer2" transform="matrix(1,0,0,1,-6,-2)">
+    <path id="rect4152" d="M688,104C688,48.808 643.192,4 588,4L104,4C48.808,4 4,48.808 4,104L4,1371C4,1426.19 48.808,1471 104,1471L588,1471C643.192,1471 688,1426.19 688,1371L688,104Z" style="stroke:rgb(221,221,221);stroke-width:4px;" />
+    <!-- SCREEN -->
+    <path id="rect4154" style="fill:#000" d="M659,150C659,119.645 634.355,95 604,95L84,95C53.645,95 29,119.645 29,150L29,1370C29,1400.36 53.645,1425 84,1425L604,1425C634.355,1425 659,1400.36 659,1370L659,150Z" />
+    <circle id="path4158" cx="190.56" cy="68.889" r="10" style="fill:none;stroke:rgb(68,68,68);stroke-width:3px;" />
+    <path id="rect4160" d="M389,66.5C389,63.74 386.76,61.5 384,61.5L314,61.5C311.24,61.5 309,63.74 309,66.5L309,69C309,71.76 311.24,74 314,74L384,74C386.76,74 389,71.76 389,69L389,66.5Z" style="fill:none;stroke:rgb(68,68,68);stroke-width:3px;" />
+  </g>
+</svg>
